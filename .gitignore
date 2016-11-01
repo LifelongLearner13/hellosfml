@@ -1,0 +1,7 @@
+# Ignore Everything
+*
+# Except these files
+!README.md
+!HelloSFML.cpp
+!HomemadeApple.ttf
+!.gitignore
